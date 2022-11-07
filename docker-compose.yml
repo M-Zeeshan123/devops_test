@@ -4,5 +4,5 @@ services :
   
   web: 
     build : .
-    port :
+    ports :
       - "8000:8000"
